@@ -1,0 +1,11 @@
+Projenin içinde yer alan;
+1-
+TOKEN = "TELEGRAM-BOT-TOKEN" ve XXXXXXXXXX alanlarını kendinize göre düzenleyin.
+2-
+projenin bulunduğu alana " logs " adında bir klasör oluşturun.
+
+The project includes;
+1-
+Edit the TOKEN = ‘TELEGRAM-BOT-TOKEN’ and XXXXXXXXXX fields according to yourself.
+2-
+Create a folder called ‘ logs ’ in the area where the project is located.

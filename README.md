@@ -4,6 +4,8 @@ After setting the Telegram bot id and the id settings to which the incoming mess
 
 In the incoming message to the id you have set, press and hold the command in the ID: /123456789x text and copy it to the correspondence field, the space will automatically leave a space, if not, leave a space, write your message and send it.
 Thus, exchange messages with the opposite customer, member or guest user via Bot.
+
+
 [TR]
 Bu projenin amacı, gelen mesajların belirlenmiş bir Telegram botuna yönlendirilmesini kolaylaştırmak ve böylece bot arayüzü aracılığıyla gönderenle doğrudan iletişim kurmaktır.
 Telegram bot id ve bota gelen mesajların gönderileceği id ayarlarınızı yaptıktan sonra kullanımı şu şekildedir;
